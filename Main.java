@@ -9,6 +9,6 @@ class Main{
 		String name = sc.next();
 		String surname = sc.next();
 		
-		System.out.print("Hello " + name + " " + surname);
+		System.out.print("Hello " + name + " " + surname);	
 	}
 }
